@@ -5,7 +5,7 @@ Project ini fokus ke fundamental frontend: event handling, state management sede
 
 ---
 
-## ✨ Features
+## Features
 
 * Basic operations: `+ - * /`
 * Clear & delete input
@@ -14,7 +14,7 @@ Project ini fokus ke fundamental frontend: event handling, state management sede
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * HTML5
 * CSS3
@@ -22,7 +22,7 @@ Project ini fokus ke fundamental frontend: event handling, state management sede
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 calculator-app/
@@ -33,7 +33,7 @@ calculator-app/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone repository:
 
@@ -51,7 +51,7 @@ cd calculator-app
 
 ---
 
-## 🧠 Learning Goals
+## Learning Goals
 
 Project ini dibuat untuk latihan:
 
@@ -62,14 +62,14 @@ Project ini dibuat untuk latihan:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 Project ini menggunakan `eval()` untuk kalkulasi agar tetap sederhana.
 Di production app, sebaiknya gunakan custom parser untuk keamanan dan kontrol yang lebih baik.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Replace `eval()` dengan custom logic parser
 * Keyboard input support
@@ -79,12 +79,12 @@ Di production app, sebaiknya gunakan custom parser untuk keamanan dan kontrol ya
 
 ---
 
-## 👤 Author
+## Live Demo
 
-GitHub: https://github.com/nindyoo
+https://calculator-app-tawny-nu.vercel.app/
 
 ---
 
-## 📄 License
+## License
 
 Free to use for learning purposes
